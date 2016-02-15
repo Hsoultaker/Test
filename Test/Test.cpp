@@ -10,7 +10,6 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<"Hello world!"<<endl;
  	cout<<"And one row"<<endl;
 	cout<<"look out steph"<<endl;
-	cout<<"######change one ####"<<endl;
 	return 0;
 }
 
